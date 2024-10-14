@@ -49,9 +49,10 @@ python app.py
 ```
 The server will start on `http://localhost:5000`.
 
+![image](https://github.com/user-attachments/assets/9f630e07-7988-4fdd-b63d-551190c0ae27)
+
 ### Testing the API
 
 You can use tools like Postman or CURL to test the API endpoints.
 
 
-![image](https://github.com/user-attachments/assets/9f630e07-7988-4fdd-b63d-551190c0ae27)
